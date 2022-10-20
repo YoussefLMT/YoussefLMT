@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **e-commerce project**
 
 - 🌱 I’m currently learning **Vue Js**
 
