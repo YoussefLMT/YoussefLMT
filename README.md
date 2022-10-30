@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **e-commerce project**
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate on **others**
 
