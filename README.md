@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Abaragh</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseflmt&label=Profile%20views&color=0e75b6&style=flat" alt="yousseflmt" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://youssef-abaragh.netlify.app](https://youssef-abaragh.netlify.app)
 
 - 📫 How to reach me **mcyoussef324@gmail.com**
