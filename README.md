@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Abaragh</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
 
-- 👨‍💻 All of my projects are available at [https://youssef-abaragh.netlify.app](https://youssef-abaragh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://youssef-abaragh.vercel.app/](https://youssef-abaragh.vercel.app/)
 
 - 📫 How to reach me **mcyoussef324@gmail.com**
 
